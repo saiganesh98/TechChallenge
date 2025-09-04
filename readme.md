@@ -3,6 +3,10 @@
 
 ## Description
 This project contains a Java program that checks whether the last three characters of a given string include a digit. It features a main class, LastThreeCharsDigitChecker, which includes a function to perform the check and demonstrates its functionality with various test cases.
+
+## Function
+- [`hasNumberInLastThreeChars`](https://github.com/saiganesh98/TechChallenge/blob/main/src/main/java/LastThreeCharsDigitChecker.java#L17): Checks if the last three characters of a string contain a digit.
+
 ### Example
 - **Input**: `"Test8RE"`
 - **Output**: `true` (because '8' is within the last 3 characters "8RE")
